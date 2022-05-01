@@ -8,7 +8,6 @@ To set SPI clock, just before TFT begin call, add these 2 lines:
   
   MyTFT.begin();  
 
-
 where CUSTOM_ILI9341_SPICLOCK and CUSTOM_ILI9341_SPICLOCK_READ are the custom SPI clock frequencies in Hz.
 
 ------------------------------------------
